@@ -1,0 +1,22 @@
+{
+  "blogs": [
+    {
+      "title": "Opening Celebration!",
+      "body": "Why do we use it?\nIt is a long established fact that a reader will be distracted with different types of text with different varities.",
+      "author": "Sadekur Rahaman",
+      "id": 1
+    },
+    {
+      "title": "New",
+      "body": "New blog body",
+      "author": "sadekur",
+      "id": 2
+    },
+    {
+      "title": "Redirect check",
+      "body": "Body test",
+      "author": "sadekur",
+      "id": 3
+    }
+  ]
+}
