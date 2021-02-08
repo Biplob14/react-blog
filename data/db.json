@@ -17,6 +17,18 @@
       "body": "Body test",
       "author": "sadekur",
       "id": 3
+    },
+    {
+      "title": "Test Blog",
+      "body": "Blog body",
+      "author": "sadekur",
+      "id": 4
+    },
+    {
+      "title": "Test Blog",
+      "body": "Blog body",
+      "author": "sadekur",
+      "id": 5
     }
   ]
 }
