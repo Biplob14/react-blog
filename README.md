@@ -30,3 +30,4 @@ This blog has features of- <br>
 - Connected with json database in order to store or modify data
 
 #### Many more-
+<!-- npx json-server --watch data/db.json --port 8000 -->
